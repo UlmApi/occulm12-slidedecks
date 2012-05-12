@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="638"
+   id="svg3012"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="dreieck.svg">
+  <defs
+     id="defs3014" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="464.28571"
+     inkscape:cy="275.39496"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1024px"
+     inkscape:window-width="1024"
+     inkscape:window-height="550"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3017">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-414.36218)">
+    <g
+       id="background"
+       transform="matrix(4.0357143,0,0,4.0357143,191.42857,799.50504)">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="32"
+         height="32"
+         id="rect6" />
+    </g>
+    <g
+       id="group_x5F_half"
+       transform="matrix(4.0357143,0,0,4.0357143,160,788.07647)">
+      <g
+         id="g9">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 20,16 c -0.75,0 -8,0 -8,0 0,0 -2,0 -2,2 0,0.778 0,12 0,12 H 22 V 18 c 0,0 0,-2 -2,-2 z"
+           id="path11" />
+      </g>
+      <g
+         id="g13">
+        <circle
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="11"
+           sodipodi:cx="16"
+           cx="16"
+           cy="11"
+           r="3"
+           id="circle15"
+           d="m 19,11 c 0,1.656854 -1.343146,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.6568542 1.343146,-3 3,-3 1.656854,0 3,1.3431458 3,3 z" />
+      </g>
+      <g
+         id="g17">
+        <circle
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="5"
+           sodipodi:cx="8"
+           cx="8"
+           cy="5"
+           r="3"
+           id="circle19"
+           d="M 11,5 C 11,6.6568542 9.6568542,8 8,8 6.3431458,8 5,6.6568542 5,5 5,3.3431458 6.3431458,2 8,2 c 1.6568542,0 3,1.3431458 3,3 z" />
+      </g>
+      <g
+         id="g21">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 12,14 h 0.023 C 11.39,13.162 11,12.131 11,11 11,10.657 11.035,10.323 11.101,10 8.968,10 4,10 4,10 c 0,0 -2,0 -2,2 0,0.778 0,12 0,12 h 6 v -6 c 0,-4 4,-4 4,-4 z"
+           id="path23" />
+      </g>
+      <g
+         id="g25">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 30,12 c 0,0 0,-2 -2,-2 -0.587,0 -5.143,0 -7.101,0 0.066,0.323 0.101,0.657 0.101,1 0,1.131 -0.39,2.162 -1.022,3 H 20 c 4,0 4,4 4,4 v 6 h 6 V 12 z"
+           id="path27" />
+      </g>
+      <g
+         id="g29">
+        <circle
+           sodipodi:ry="3"
+           sodipodi:rx="3"
+           sodipodi:cy="5"
+           sodipodi:cx="24"
+           cx="24"
+           cy="5"
+           r="3"
+           id="circle31"
+           d="m 27,5 c 0,1.6568542 -1.343146,3 -3,3 -1.656854,0 -3,-1.3431458 -3,-3 0,-1.6568542 1.343146,-3 3,-3 1.656854,0 3,1.3431458 3,3 z" />
+      </g>
+    </g>
+    <g
+       transform="matrix(3.3469388,0,0,3.3469388,712.7347,800.23973)"
+       id="server">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 30,10 V 2 H 2 v 8 h 2 v 2 H 2 v 8 h 2 v 2 H 2 v 8 h 28 v -8 h -2 v -2 h 2 v -8 h -2 v -2 h 2 z M 4,6 H 8 V 8 H 4 V 6 z m 0,10 h 4 v 2 H 4 V 16 z M 8,28 H 4 v -2 h 4 v 2 z M 26,22 H 6 v -2 h 20 v 2 z M 26,12 H 6 v -2 h 20 v 2 z"
+         id="path9" />
+    </g>
+    <g
+       transform="matrix(3.9464286,0,0,3.9464286,443.42831,545.21932)"
+       id="bookmark">
+      <g
+         id="g9-8">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 20.001,1.999 V 0 h -17 C 2.917,0.006 2.294,-0.006 1.554,0.355 0.807,0.685 -0.034,1.647 0.001,3 c 0,0.003 0,0.006 0,0.009 V 24 c 0,2 2,2 2,2 h 8 v 6 l 3,-2 3,2 v -6 h 4 V 4 h -2 V 1.999 h 2 z m -2,22.001 h -14 V 6 h 14 v 18 z m -2,-20 h -13 C 3.001,4 2.968,4.002 2.853,3.981 2.674,3.957 2.417,3.87 2.273,3.743 2.136,3.609 2.016,3.5 2,3 2.035,2.354 2.195,2.315 2.448,2.145 2.577,2.079 2.736,2.036 2.853,2.018 2.968,1.997 3.001,2.008 3.001,1.999 h 13 V 4 z"
+           id="path11-8" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3108"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       transform="translate(-42.857143,466.64789)"><flowRegion
+         id="flowRegion3110"><rect
+           id="rect3112"
+           width="228.57143"
+           height="120"
+           x="591.42859"
+           y="111.42857"
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+         id="flowPara3114"
+         style="font-weight:normal;-inkscape-font-specification:Sans">Politik</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3116"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,436.36218)"><flowRegion
+         id="flowRegion3118"><rect
+           id="rect3120"
+           width="254.28572"
+           height="85.714287"
+           x="700"
+           y="477.14285" /></flowRegion><flowPara
+         id="flowPara3122">Technik</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3124"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(36,438.36218)"><flowRegion
+         id="flowRegion3126"><rect
+           id="rect3128"
+           width="248.57143"
+           height="65.714287"
+           x="74.285713"
+           y="477.14285" /></flowRegion><flowPara
+         id="flowPara3130">Community</flowPara></flowRoot>  </g>
+</svg>
